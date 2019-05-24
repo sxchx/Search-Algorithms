@@ -1,0 +1,21 @@
++-------------------------------------------+
+|                                           |
+|      x x x          x          x x x      |
+|     x              xxx              x     |
+|     x             xxxxx             x     |
+|    x             xxxxxxx             x    |
+|   x             xxxxxxxxx             x   |
+|  x   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxG   x  |
+|  x      Sxxxxxxxxxxxxxxxxxxxxxxxx      x  |
+|   x  xx   xxxxxxxxxxxxxxxxxxxxx   xx  x   |
+|    x xxxx   xxxxxxxxxxxxxxxxx   xxxx x    |
+|             xxxxxxxx xxxxxxxx             |
+| xxxxxxxxx  xxxxxxx     xxxxxxx  xxxxxxxx  |
+|           xxxxx     x     xxxxx           |
+|    x     xxxx   x   x   x   xxxx     x    |
+|   xxx   xxx   x    x x    x   xxx   xxx   |
+|  xxxxx xx   x     x   x     x   xx xxxxx  |
+|   xxx      x     x     x     x      xxx   |
+| xxxxxxx         x       x         xxxxxxx |
+|                x         x                |
++-------------------------------------------+
